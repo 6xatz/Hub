@@ -5,7 +5,7 @@
   </p>
 </p>
 
-# Bio
+## Bio
 This repository is containing all-files of xLufn-Hub!
 
 ### Issues
@@ -17,4 +17,4 @@ Join the <a href="https://discord.gg/YnVB3JM" target="_blank">discord-server</a>
 ### Documentation Generator
 Our documentation generator, including `index.html` and all associated resources are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html). Feel free to use it and modify it for your own projects.
 
-Updated on 14-03-2020 Saturday 10.35 AM.
+Updated on 27-03-2020 Saturday 07.35 AM.
