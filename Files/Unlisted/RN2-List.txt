@@ -102,6 +102,7 @@ Fix-Section:
  -Install Xposed-3.1.5: https://forum.xda-developers.com/attachment.php?attachmentid=4393082&d=1516301692 And Open This, Then Flash!
 
 -To Fix Battery-Drain And Some Bug Like Camera, Etc...: You Can Try To Install Kernel, Modem, Graphic, Codec. But You Need To Know Your Rom Blob-Base Or It Will Bootloop!
+ -You Can Install SpectrumSuper By Bilux That Fix Battery-Drain, Work On Every-Rom:>
  -Link: https://taut.pro/w3pkpy7RvZ
  *If Still Bugs Wait New-Build-ROM Or Fix-It Your-Self!!!
 ------------------------------------
