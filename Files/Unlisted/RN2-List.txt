@@ -15,7 +15,7 @@ Credit:
 ------------------------------------
 Tested By Myself:
 
-https://sourceforge.net/projects/rmn2-hermes/files/ Lineage-OS-15.1-8.1 Old+Latest
+https://sourceforge.net/projects/rmn2-hermes/files/ Lineage-OS-15.1-8.1 + Lineage-OS-16.0-Test
 -Bugs? Unstable If You Install Xposed!
 
 -Daily-Usage https://androidfilehost.com/?fid=1395089523397893111 AospExtended-v4.6-7.1-20190214
