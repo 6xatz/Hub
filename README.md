@@ -1,9 +1,5 @@
-<p>
-  <p align="center">
-<a href="https://github.com/LoukaMB/SynapseX" target="_blank">Website-Main-Sources (by LoukaMB).</a>
-  </p>
-</p>
-##
+
+## <a href="https://github.com/LoukaMB/SynapseX" target="_blank">Website-Main-Sources (by LoukaMB).</a>
 
 ### Bio
 This repository is containing all-files of 6xatz-Hub!
