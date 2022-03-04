@@ -1,4 +1,3 @@
-
 ## <a href="https://github.com/LoukaMB/SynapseX" target="_blank">Website-Main-Sources (by LoukaMB).</a>
 
 ### Bio
