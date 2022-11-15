@@ -1,4 +1,4 @@
-## <a href="https://github.com/LoukaMB/SynapseX" target="_blank">Website-Main-Sources (by LoukaMB).</a>
+## <a href="" target="_blank">6xatz Main-Sites.</a>
 
 ### Bio
 This repository is containing all-files of 6xatz-Hub!
