@@ -1,4 +1,4 @@
-## <a href="" target="_blank">6xatz Main-Sites.</a>
+## <a href="" target="_blank">TBA</a>
 
 ### Bio
 This repository is containing all-files of 6xatz-Hub!
