@@ -1,4 +1,4 @@
-## <a href="" target="_blank">TBA</a>
+## <a href="" target="_blank">6xatz-Hub</a>
 
 ### Bio
 This repository is containing all-files of 6xatz-Hub!
@@ -12,4 +12,4 @@ Join the <a href="https://discord.gg/YnVB3JM" target="_blank">discord-server</a>
 ### Documentation Generator
 Our documentation generator, including `index.html` and all associated resources, except: logo (any of these). are licensed under the [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
-Updated on 04-03-2022 Saturday 02.20 PM.
+Updated on 13-09-2023 Saturday 08.33 AM.
