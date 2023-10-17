@@ -35,8 +35,10 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah *--reset-author* kok.
     cd waifu
     git init
 
-*pwd* berfungsi untuk memeriksa tempat Git bekerja saat ini. | *mkdir* berfungsi untuk membuat folder atau direktori.
-*cd* berfungsi untuk masuk/keluar pada sebuah direktori.     | *git init* berfungsi untuk menginisiasi Git pada sebuah repository.
+*pwd* berfungsi untuk memeriksa tempat Git bekerja saat ini.
+*mkdir* berfungsi untuk membuat folder atau direktori.
+*cd* berfungsi untuk masuk ke sebuah direktori (*cd ..* untuk kembali).
+*git init* berfungsi untuk menginisiasi Git pada sebuah repository.
 
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > karena kita membuat "README.md" nanti pada pembuatan repository pastikan kalian uncentang: create README.md .
@@ -49,6 +51,18 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah *--reset-author* kok.
 *echo* berfungsi untuk mengirim perintah ke konsol.
 *"# waifu"* berfungsi untuk mengeksekusi perintah pada repository yang dituliskan.
 *README.md* berfungsi untuk membuat README.md .
+
+5. Menambahkan sebuah files ke Git dan melakukan Commit,
+> kamu bisa menggunakan *git status* untuk memeriksa apakah terdapat files yang dimodifikasi atau tidak.
+<p align="left">
+  <img src="/ss/5.png" width="350">
+</p>
+
+    git add README.md
+    git commit -m "Kembalilah ke masa lalu. Percayalah, kau akan menyesalinya."
+
+*git add* berfungsi untuk menambahkan files ke Git.
+*git commit -m "deskripsi"* perintah ini berfungsi untuk "git" -> "lakukan commit" -> "master" (branch) -> "Deskripsi/Alasan commit".
 
 ## Documentation
 All associated resources. are licensed under the [MIT License](https://mit-license.org/).
