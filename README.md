@@ -10,7 +10,9 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
   <img src="/ss/1.png" width="450">
 </p>
 
-Start in: *%HOMEDRIVE%%HOMEPATH%* . Berfungsi agar /home/ yang akan digunakan nanti berada pada User yang logon saat ini.
+    %HOMEDRIVE%%HOMEPATH%
+
+  _ *%HOMEDRIVE%%HOMEPATH%* berfungsi agar /home/ yang akan digunakan nanti berada pada User yang logon saat ini.
 
 2. Konfigurasi Git Config secara Global,
 > bisa juga secara individual repository.
