@@ -40,7 +40,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 ***git init*** berfungsi untuk menginisiasi Git pada sebuah repository.
 
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
-> karena kita sudah membuat *README.md* sebelumnya. maka pastikan kalian uncheck: create README.md .
+> karena kita sudah membuat ***README.md*** sebelumnya. maka pastikan kalian uncheck: create README.md .
 <p align="left">
   <img src="/ss/4.png" width="330">
 </p>
@@ -49,7 +49,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 
 ***echo*** berfungsi untuk mengirim perintah ke konsol.
 ***"# waifu"*** berfungsi untuk mengeksekusi perintah pada repository yang dituliskan.
-***README.md*** berfungsi untuk membuat README.md .
+***README.md*** berfungsi untuk membuat ***README.md*** .
 
 5. Menambahkan sebuah files ke Git dan melakukan Commit,
 > kamu bisa menggunakan ***git status*** untuk memeriksa apakah terdapat files yang dimodifikasi atau tidak.
