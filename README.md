@@ -6,7 +6,6 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
 ### Cara menggunakan Git
 1. Memilih Git Bash yang sesuai,
 <p align="center">
-  <img src="/ss/1.png" width="350">
   <img src="/ss/3.png" width="350"">
 </p>
 
