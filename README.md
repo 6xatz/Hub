@@ -4,7 +4,7 @@
 Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa. 
 
 ### Cara menggunakan Git
-1. Memilih Git Bash yang sesuai,
+1. Memilih Git Bash yang sesuai (pada Taskbar biasanya terdapat 2 Git Bash berbeda),
 > disini saya menggunakan target %HOMEDRIVE%%HOMEPATH% .
 <p align="center">
   <img src="/ss/1.png" width="350">
