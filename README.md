@@ -11,7 +11,7 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
 
     %HOMEDRIVE%%HOMEPATH%
 
-<p>Start in: *%HOMEDRIVE%%HOMEPATH%* berfungsi agar /home/ yang akan digunakan nanti berada pada User yang logon saat ini.</p>
+Start in: *%HOMEDRIVE%%HOMEPATH%* berfungsi agar /home/ yang akan digunakan nanti berada pada User yang logon saat ini.
 
 2. Konfigurasi Git Config secara Global,
 > bisa juga secara individual repository.
@@ -22,7 +22,7 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
     git config --global user.name "6xatz"
     git config --global user.email "airalva@gmail.com"
 
-<p>Kalau typo (awokawok typo), santai aja. Bisa pake perintah *--reset-author* kok.</p>
+Kalau typo (awokawok typo), santai aja. Bisa pake perintah *--reset-author* kok.
 
 3. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > disarankan membuat repository didalam folder kosong agar /home/ tidak berantakan.
@@ -35,10 +35,10 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
     cd waifu
     git init
 
-<p>*pwd* berfungsi untuk memeriksa tempat Git bekerja saat ini.
-*mkdir* berfungsi untuk membuat folder atau direktori.</p>
-<p>*cd* berfungsi untuk masuk ke sebuah direktori (*cd ..* untuk kembali).</p>
-<p>*git init* berfungsi untuk menginisiasi Git pada sebuah repository.</p>
+*pwd* berfungsi untuk memeriksa tempat Git bekerja saat ini.
+*mkdir* berfungsi untuk membuat folder atau direktori.
+*cd* berfungsi untuk masuk ke sebuah direktori (*cd ..* untuk kembali).
+*git init* berfungsi untuk menginisiasi Git pada sebuah repository.
 
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > karena kita membuat "README.md" nanti pada pembuatan repository pastikan kalian uncentang: create README.md .
@@ -48,9 +48,9 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
 
     echo "# waifu" >> README.md
 
-<p>*echo* berfungsi untuk mengirim perintah ke konsol.</p>
-<p>*"# waifu"* berfungsi untuk mengeksekusi perintah pada repository yang dituliskan.</p>
-<p>*README.md* berfungsi untuk membuat README.md .</p>
+*echo* berfungsi untuk mengirim perintah ke konsol.
+*"# waifu"* berfungsi untuk mengeksekusi perintah pada repository yang dituliskan.
+*README.md* berfungsi untuk membuat README.md .
 
 ## Documentation
 All associated resources. are licensed under the [MIT License](https://mit-license.org/).
