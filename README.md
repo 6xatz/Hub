@@ -54,7 +54,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 5. Menambahkan sebuah files ke Git dan melakukan Commit,
 > kamu bisa menggunakan ***git status*** untuk memeriksa apakah terdapat files yang dimodifikasi atau tidak.
 <p align="left">
-  <img src="/ss/5.png" width="450">
+  <img src="/ss/5.png" width="580">
 </p>
 
     git add README.md
@@ -66,7 +66,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 6. Membuat Repository,
 > New Repository -> Create Repository.
 <p align="left">
-  <img src="/ss/6.png" width="450">
+  <img src="/ss/6.png" width="650">
 </p>
 
 *konfigurasi harap sesuaikan dengan tugas masing-masing.*
