@@ -2,7 +2,7 @@
 Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa. 
 
 ## Cara menggunakan Git untuk sebuah Repository
-1. Memilih Git Bash yang sesuai,
+1. Memilih Shortcut pada Git Bash,
 <p align="left">
   <img src="/ss/1.png" width="450">
 </p>
@@ -10,7 +10,7 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
     Target: --cd-to-home
     Start in: %HOMEDRIVE%%HOMEPATH%
 
-dua perintah ini berfungsi agar /home/ yang akan digunakan nanti berada pada User yang logon saat ini.
+dua perintah ini berfungsi agar ***/home/*** yang akan digunakan nanti berada pada User yang logon saat ini.
 
 2. Konfigurasi Git Config secara Global,
 > bisa juga secara individual repository.
@@ -21,7 +21,7 @@ dua perintah ini berfungsi agar /home/ yang akan digunakan nanti berada pada Use
     git config --global user.name "6xatz"
     git config --global user.email "airalva@gmail.com"
 
-Kalau typo (awokawok typo), santai aja. Bisa pake perintah **--reset-author** kok.
+Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** kok.
 
 3. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > disarankan membuat repository didalam folder kosong agar /home/ tidak berantakan.
@@ -34,10 +34,10 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah **--reset-author** ko
     cd waifu
     git init
 
-**pwd** berfungsi untuk memeriksa tempat Git bekerja saat ini.
-**mkdir** berfungsi untuk membuat folder atau direktori.
-**cd** berfungsi untuk masuk ke sebuah direktori (*cd ..* untuk kembali).
-**git init** berfungsi untuk menginisiasi Git pada sebuah repository.
+***pwd*** berfungsi untuk memeriksa tempat Git bekerja saat ini.
+***mkdir*** berfungsi untuk membuat folder atau direktori.
+***cd*** berfungsi untuk masuk ke sebuah direktori (*cd ..* untuk kembali).
+***git init*** berfungsi untuk menginisiasi Git pada sebuah repository.
 
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > karena kita membuat "README.md" nanti pada pembuatan repository pastikan kalian uncentang: create README.md .
