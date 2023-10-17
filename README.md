@@ -61,16 +61,15 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
     git commit -m "Kembalilah ke masa lalu. Percayalah, kau akan menyesalinya."
 
 ***git add*** berfungsi untuk menambahkan files ke Git.
-***git commit -m "deskripsi"*** perintah ini berfungsi untuk "git" -> "lakukan commit" -> "master" (branch) -> "Deskripsi/Alasan commit".
+***git commit -m "deskripsi"*** perintah ini berfungsi untuk *"git" -> "lakukan commit" -> "master" (branch) -> "Deskripsi/Alasan commit"*.
 
 6. Membuat Repository,
 > New Repository -> Create Repository.
 <p align="left">
   <img src="/ss/6.png" width="450">
-  <img src="/ss/7.png" width="450">
 </p>
 
-***konfigurasi harap sesuaikan dengan tugas masing-masing.***
+*konfigurasi harap sesuaikan dengan tugas masing-masing.*
 
 ## Documentation
 All associated resources. are licensed under the [MIT License](https://mit-license.org/).
