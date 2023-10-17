@@ -13,7 +13,7 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
 dua perintah ini berfungsi agar ***/home/*** yang akan digunakan nanti berada pada User yang logon saat ini.
 
 2. Konfigurasi Git Config secara Global,
-> bisa juga secara individual repository.
+> bisa juga secara *individual repository*.
 <p align="left">
   <img src="/ss/2.png" width="350">
 </p>
@@ -40,7 +40,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 ***git init*** berfungsi untuk menginisiasi Git pada sebuah repository.
 
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
-> karena kita membuat "README.md" nanti pada pembuatan repository pastikan kalian uncentang: create README.md .
+> karena kita sudah membuat *README.md* sebelumnya. maka pastikan kalian uncheck: create README.md .
 <p align="left">
   <img src="/ss/4.png" width="330">
 </p>
