@@ -1,15 +1,14 @@
-## <a href="" target="_blank">[6xatz] Waifu</a>
+## <a href="" target="_blank">Repo: Waifu</a>
 
 ### Mata Kuliah
 Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa. 
 
-### Cara menggunakan GIT
-1. If you have any problem pls, go make an new
-<p align="left">
-  <kbd><img src="1.png"></kbd>
+### Cara menggunakan Git
+1. Memilih Git Bash yang sesuai,
+<p align="center">
+  <img src="/ss/1.png" width="350">
+  <img src="/ss/2.png" width="350"">
 </p>
-
-<a href="https://github.com/6xatz/Hub/issues/new" target="_blank">issues-thread</a>.
 
 ### Documentation
 All associated resources. are licensed under the [MIT License](https://mit-license.org/).
