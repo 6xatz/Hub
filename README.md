@@ -9,9 +9,10 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
   <img src="/ss/1.png" width="450">
 </p>
 
-    %HOMEDRIVE%%HOMEPATH%
+    Target: --cd-to-home
+    Start in: %HOMEDRIVE%%HOMEPATH%
 
-Start in: *%HOMEDRIVE%%HOMEPATH%* berfungsi agar /home/ yang akan digunakan nanti berada pada User yang logon saat ini.
+dua perintah ini berfungsi agar /home/ yang akan digunakan nanti berada pada User yang logon saat ini.
 
 2. Konfigurasi Git Config secara Global,
 > bisa juga secara individual repository.
@@ -43,7 +44,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah *--reset-author* kok.
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > karena kita membuat "README.md" nanti pada pembuatan repository pastikan kalian uncentang: create README.md .
 <p align="left">
-  <img src="/ss/4.png" width="350">
+  <img src="/ss/4.png" width="450">
 </p>
 
     echo "# waifu" >> README.md
