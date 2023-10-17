@@ -9,11 +9,9 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
 <p align="center">
   <img src="/ss/1.png" width="350">
 </p>
- ```yml
-    ARK Survival Evolved | 170 GB | 108000 Files
-    
+
     compact.exe:         9m18s   
-    CompactGUI v3 a3:    4m42s    49%  faster  # compact.exe yields system resources and checks files which is why this is so much faster
+    CompactGUI v3 a3:    4m42s    49%  faster  # coupact.exe yields system resources and checks files which is why this is so much faster
     CompactGUI v3 a2:    8m17s    11%  faster
     CompactGUI v2.6.2:   23m6s    248% slower
         
@@ -23,7 +21,7 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
     CompactGUI v3 a3:    12.95s   25%  faster
     CompactGUI v3 a2:    17.82s   2.7% slower
     CompactGUI v2.6.2:   81.79s   471% slower
-    ```
+
 ## Documentation
 All associated resources. are licensed under the [MIT License](https://mit-license.org/).
 
