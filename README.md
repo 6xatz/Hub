@@ -1,9 +1,7 @@
-# <a href="" target="_blank">Repo: Waifu</a>
-
 ## Mata Kuliah
 Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa. 
 
-### Cara menggunakan Git untuk sebuah Repository
+## Cara menggunakan Git untuk sebuah Repository
 1. Memilih Git Bash yang sesuai,
 <p align="left">
   <img src="/ss/1.png" width="450">
