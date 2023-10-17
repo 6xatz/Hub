@@ -54,7 +54,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 5. Menambahkan sebuah files ke Git dan melakukan Commit,
 > kamu bisa menggunakan ***git status*** untuk memeriksa apakah terdapat files yang dimodifikasi atau tidak.
 <p align="left">
-  <img src="/ss/5.png" width="350">
+  <img src="/ss/5.png" width="450">
 </p>
 
     git add README.md
