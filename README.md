@@ -35,8 +35,8 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
     cd waifu
     git init
 
-<p>*pwd* berfungsi untuk memeriksa tempat Git bekerja saat ini.</p>
-<p>*mkdir* berfungsi untuk membuat folder atau direktori.</p>
+<p>*pwd* berfungsi untuk memeriksa tempat Git bekerja saat ini.
+*mkdir* berfungsi untuk membuat folder atau direktori.</p>
 <p>*cd* berfungsi untuk masuk ke sebuah direktori (*cd ..* untuk kembali).</p>
 <p>*git init* berfungsi untuk menginisiasi Git pada sebuah repository.</p>
 
@@ -48,9 +48,9 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
 
     echo "# waifu" >> README.md
 
-*echo* berfungsi untuk mengirim perintah ke konsol.
-*"# waifu"* berfungsi untuk mengeksekusi perintah pada repository yang dituliskan.
-*README.md* berfungsi untuk membuat README.md .
+<p>*echo* berfungsi untuk mengirim perintah ke konsol.</p>
+<p>*"# waifu"* berfungsi untuk mengeksekusi perintah pada repository yang dituliskan.</p>
+<p>*README.md* berfungsi untuk membuat README.md .</p>
 
 ## Documentation
 All associated resources. are licensed under the [MIT License](https://mit-license.org/).
