@@ -26,7 +26,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 3. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > disarankan membuat repository didalam folder kosong agar /home/ tidak berantakan.
 <p align="left">
-  <img src="/ss/3.png" width="370">
+  <img src="/ss/3.png" width="380">
 </p>
 
     pwd
@@ -42,17 +42,17 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > karena kita membuat "README.md" nanti pada pembuatan repository pastikan kalian uncentang: create README.md .
 <p align="left">
-  <img src="/ss/4.png" width="350">
+  <img src="/ss/4.png" width="340">
 </p>
 
     echo "# waifu" >> README.md
 
-**echo** berfungsi untuk mengirim perintah ke konsol.
-**"# waifu"** berfungsi untuk mengeksekusi perintah pada repository yang dituliskan.
-**README.md** berfungsi untuk membuat README.md .
+***echo*** berfungsi untuk mengirim perintah ke konsol.
+***"# waifu"*** berfungsi untuk mengeksekusi perintah pada repository yang dituliskan.
+***README.md*** berfungsi untuk membuat README.md .
 
 5. Menambahkan sebuah files ke Git dan melakukan Commit,
-> kamu bisa menggunakan *git status* untuk memeriksa apakah terdapat files yang dimodifikasi atau tidak.
+> kamu bisa menggunakan ***git status*** untuk memeriksa apakah terdapat files yang dimodifikasi atau tidak.
 <p align="left">
   <img src="/ss/5.png" width="350">
 </p>
@@ -60,8 +60,8 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
     git add README.md
     git commit -m "Kembalilah ke masa lalu. Percayalah, kau akan menyesalinya."
 
-**git add** berfungsi untuk menambahkan files ke Git.
-**git commit -m "deskripsi"** perintah ini berfungsi untuk "git" -> "lakukan commit" -> "master" (branch) -> "Deskripsi/Alasan commit".
+***git add*** berfungsi untuk menambahkan files ke Git.
+***git commit -m "deskripsi"*** perintah ini berfungsi untuk "git" -> "lakukan commit" -> "master" (branch) -> "Deskripsi/Alasan commit".
 
 6. Membuat Repository,
 > New Repository -> Create Repository.
