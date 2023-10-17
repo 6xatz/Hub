@@ -1,7 +1,7 @@
 ## Mata Kuliah
 Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa. 
 
-## Cara menggunakan Git untuk sebuah Repository
+## Cara menggunakan Git
 1. Memilih Shortcut pada Git Bash,
 <p align="left">
   <img src="/ss/1.png" width="450">
@@ -24,7 +24,7 @@ dua perintah ini berfungsi agar ***/home/*** yang akan digunakan nanti berada pa
 Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** kok.
 
 3. Membuat Repository secara lokal pada drive dan menginisiasi Git,
-> disarankan membuat repository didalam folder kosong agar /home/ tidak berantakan.
+> disarankan membuat repository didalam folder kosong agar ***/home/*** tidak berantakan.
 <p align="left">
   <img src="/ss/3.png" width="380">
 </p>
@@ -42,7 +42,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > karena kita membuat "README.md" nanti pada pembuatan repository pastikan kalian uncentang: create README.md .
 <p align="left">
-  <img src="/ss/4.png" width="340">
+  <img src="/ss/4.png" width="330">
 </p>
 
     echo "# waifu" >> README.md
