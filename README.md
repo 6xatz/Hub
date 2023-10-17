@@ -35,10 +35,8 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah *--reset-author* kok.
     cd waifu
     git init
 
-*pwd* berfungsi untuk memeriksa tempat Git bekerja saat ini.
-*mkdir* berfungsi untuk membuat folder atau direktori.
-*cd* berfungsi untuk masuk ke sebuah direktori (*cd ..* untuk kembali).
-*git init* berfungsi untuk menginisiasi Git pada sebuah repository.
+*pwd* berfungsi untuk memeriksa tempat Git bekerja saat ini. | *mkdir* berfungsi untuk membuat folder atau direktori.
+*cd* berfungsi untuk masuk/keluar pada sebuah direktori.     | *git init* berfungsi untuk menginisiasi Git pada sebuah repository.
 
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > karena kita membuat "README.md" nanti pada pembuatan repository pastikan kalian uncentang: create README.md .
