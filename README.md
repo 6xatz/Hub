@@ -5,8 +5,8 @@ Sebagai tugas praktikum: [1] Bahasa Pemrograman | Universitas Pelita Bangsa.
 
 ### Cara menggunakan GIT
 1. If you have any problem pls, go make an new
-<p align="center">
-  <kbd><img src="[1] GIT PUNYA 2 ICON dengan target berbeda.png"></kbd>
+<p align="left">
+  <kbd><img src="1.png"></kbd>
 </p>
 
 <a href="https://github.com/6xatz/Hub/issues/new" target="_blank">issues-thread</a>.
