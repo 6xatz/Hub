@@ -26,7 +26,7 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 3. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > disarankan membuat repository didalam folder kosong agar /home/ tidak berantakan.
 <p align="left">
-  <img src="/ss/3.png" width="350">
+  <img src="/ss/3.png" width="370">
 </p>
 
     pwd
@@ -36,13 +36,13 @@ Kalau typo (awokawok typo), santai aja. Bisa pake perintah ***--reset-author*** 
 
 ***pwd*** berfungsi untuk memeriksa tempat Git bekerja saat ini.
 ***mkdir*** berfungsi untuk membuat folder atau direktori.
-***cd*** berfungsi untuk masuk ke sebuah direktori (*cd ..* untuk kembali).
+***cd*** berfungsi untuk masuk ke sebuah direktori (***cd ..*** untuk kembali).
 ***git init*** berfungsi untuk menginisiasi Git pada sebuah repository.
 
 4. Membuat Repository secara lokal pada drive dan menginisiasi Git,
 > karena kita membuat "README.md" nanti pada pembuatan repository pastikan kalian uncentang: create README.md .
 <p align="left">
-  <img src="/ss/4.png" width="450">
+  <img src="/ss/4.png" width="350">
 </p>
 
     echo "# waifu" >> README.md
